@@ -13,7 +13,13 @@
 
 <br/>  
 
-## Recent Blog Posts(update time:2022-12-28 23:15:02)
+## Recent Blog Posts(update time:2022-12-29 00:04:36)
+
+[牛客模拟缓存](http://dawnchannel.tech/2022/12/26/NowcoderEmulateCache/)
+
+[Hexo博客搭建以及文件同步](http://dawnchannel.tech/2022/12/27/blog/)
+
+[Alist+RaiDrive+阿里云盘&#x3D;本地网盘+文件实时同步+备份](http://dawnchannel.tech/2022/12/28/local_sync/)
 
 
 <br/>
