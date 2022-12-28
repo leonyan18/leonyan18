@@ -26,6 +26,7 @@ def get_link_info(feed_url, num):
 
 def main():
     insert_info =  get_link_info("http://dawnchannel.tech/content.json", 3)
+    print(insert_info)
     # 替换 ---start--- 到 ---end--- 之间的内容
     # pytz.timezone('Asia/Shanghai')).strftime('%Y年%m月%d日%H时M分')
     fmt = '%Y-%m-%d %H:%M:%S %Z%z'
