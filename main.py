@@ -11,6 +11,7 @@ def get_link_info(feed_url, num):
     response = requests.get(feed_url).text
     response=json.loads(response)
     feed_entries = response["posts"]
+    feed_entries.reverse()
     feed_entries_length = len(feed_entries)
     all_number = 0
     if(num > feed_entries_length):
