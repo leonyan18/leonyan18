@@ -13,7 +13,8 @@
 
 <br/>  
 
-## Recent Blog Posts(update time:2022-12-29 14:04:26)
+## Recent Blog Posts(update time:2022-12-29 14:14:04)
+[![BLOGAutoUpdate](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml/badge.svg)](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml)
 
 [使用Github Actions 动态更新Github主页](http://dawnchannel.tech/2022/12/29/GetRecentBlog/)
 
