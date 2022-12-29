@@ -13,7 +13,9 @@
 
 <br/>  
 
-## Recent Blog Posts(update time:2022-12-29 10:15:20)
+## Recent Blog Posts(update time:2022-12-29 13:54:35)
+
+[使用Github Actions 动态更新Github主页](http://dawnchannel.tech/2022/12/29/GetRecentBlog/)
 
 [Alist+RaiDrive+阿里云盘&#x3D;本地网盘+文件实时同步+备份](http://dawnchannel.tech/2022/12/28/local_sync/)
 
