@@ -1,4 +1,4 @@
-name: 'leonyan18'
+name: 'BLOGAutoUpdate'
 
 on:
   push:
