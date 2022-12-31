@@ -13,8 +13,10 @@
 
 <br/>  
 
-## Recent Blog Posts(update time:2022-12-30 10:15:00)
+## Recent Blog Posts(update time:2022-12-31 10:11:40)
 [![BLOGAutoUpdate](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml/badge.svg)](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml)
+
+[BM95 分糖果问题](http://dawnchannel.tech/2022/12/30/BM95/)
 
 [使用Github Actions 动态更新Github主页](http://dawnchannel.tech/2022/12/29/GetRecentBlog/)
 
