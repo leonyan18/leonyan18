@@ -13,8 +13,10 @@
 
 <br/>  
 
-## Recent Blog Posts(update time:2023-01-01 10:32:39)
+## Recent Blog Posts(update time:2023-01-02 10:14:37)
 [![BLOGAutoUpdate](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml/badge.svg)](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml)
+
+[数组中的逆序对](http://dawnchannel.tech/2023/01/01/BM20/)
 
 [BM95 分糖果问题](http://dawnchannel.tech/2022/12/30/BM95/)
 
