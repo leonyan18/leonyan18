@@ -13,8 +13,10 @@
 
 <br/>  
 
-## Recent Blog Posts(update time:2023-03-30 10:11:38)
+## Recent Blog Posts(update time:2023-03-31 10:10:48)
 [![BLOGAutoUpdate](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml/badge.svg)](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml)
+
+[Java集合](http://dawnchannel.tech/2023/03/30/JavaCollection/)
 
 [Java问题收集](http://dawnchannel.tech/2023/02/20/JavaProblem/)
 
@@ -25,8 +27,6 @@
 [BM95 分糖果问题](http://dawnchannel.tech/2022/12/30/BM95/)
 
 [使用Github Actions 动态更新Github主页](http://dawnchannel.tech/2022/12/29/GetRecentBlog/)
-
-[Alist+RaiDrive+阿里云盘&#x3D;本地网盘+文件实时同步+备份](http://dawnchannel.tech/2022/12/28/local_sync/)
 
 
 <br/>
