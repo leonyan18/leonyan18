@@ -71,6 +71,11 @@
 
 <br/>  
 
+## LeetCode Stats Card  
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/leonyan18?theme=unicorn&extension=heatmap&site=cn)
+
+<br/>  
 
 ## Github Stats  
 <table><tr><td valign="top" width="55%">
