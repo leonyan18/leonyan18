@@ -13,8 +13,10 @@
 
 <br/>  
 
-## Recent Blog Posts(update time:2023-04-19 10:08:17)
+## Recent Blog Posts(update time:2023-04-20 10:04:52)
 [![BLOGAutoUpdate](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml/badge.svg)](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml)
+
+[java 并发](http://dawnchannel.tech/2023/04/18/javaConcurrent/)
 
 [Java集合](http://dawnchannel.tech/2023/03/30/JavaCollection/)
 
@@ -25,8 +27,6 @@
 [数组中的逆序对](http://dawnchannel.tech/2023/01/01/BM20/)
 
 [BM95 分糖果问题](http://dawnchannel.tech/2022/12/30/BM95/)
-
-[使用Github Actions 动态更新Github主页](http://dawnchannel.tech/2022/12/29/GetRecentBlog/)
 
 
 <br/>
