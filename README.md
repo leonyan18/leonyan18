@@ -13,8 +13,12 @@
 
 <br/>  
 
-## Recent Blog Posts(update time:2023-06-15 10:14:37)
+## Recent Blog Posts(update time:2023-06-16 10:15:51)
 [![BLOGAutoUpdate](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml/badge.svg)](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml)
+
+[spring](http://dawnchannel.tech/2023/06/15/spring/)
+
+[JVM](http://dawnchannel.tech/2023/06/14/jvm/)
 
 [数据库](http://dawnchannel.tech/2023/06/12/database/)
 
@@ -23,10 +27,6 @@
 [java 并发](http://dawnchannel.tech/2023/04/18/javaConcurrent/)
 
 [Java集合](http://dawnchannel.tech/2023/03/30/JavaCollection/)
-
-[Java问题收集](http://dawnchannel.tech/2023/02/20/JavaProblem/)
-
-[BM75 编辑距离(一)](http://dawnchannel.tech/2023/01/06/BM75/)
 
 
 <br/>
