@@ -13,12 +13,12 @@
 
 <br/>  
 
-## Recent Blog Posts(update time:2023-06-24 10:33:41)
+## Recent Blog Posts(update time:2023-06-25 10:48:03)
 [![BLOGAutoUpdate](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml/badge.svg)](https://github.com/leonyan18/leonyan18/actions/workflows/main.yml)
 
-[](http://dawnchannel.tech/2023/06/19/redis/)
+[framework](http://dawnchannel.tech/2023/06/15/framework/)
 
-[spring](http://dawnchannel.tech/2023/06/15/spring/)
+[](http://dawnchannel.tech/2023/06/19/redis/)
 
 [JVM](http://dawnchannel.tech/2023/06/14/jvm/)
 
